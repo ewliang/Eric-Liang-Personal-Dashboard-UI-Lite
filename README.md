@@ -1,6 +1,11 @@
 # Eric-Liang-Personal-Dashboard-UI-Lite
 A public lite version of my potential personal website's custom main dashboard for https://www.eric-liang.com. It will have extremely limited features and will only focus on the Front End UI side of things. Some features might or might not be available in the final version. That's why it's a public "lite" release. The final version will be private source code and WILL NOT be released.
 
+## Author
+Eric Liang
+- Website [https://www.eric-liang.com](https://www.eric-liang.com)
+- Github [https://github.com/ewliang](https://github.com/ewliang)
+
 ## License
 MIT License
 
