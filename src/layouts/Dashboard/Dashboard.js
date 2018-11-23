@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './Dashboard.scss';
 
 // Components
-import MainNav from '../../components/MainNav/MainNav';
+import MainNav from '../../components/Sidebar/MainNav/MainNav';
 
 class Dashboard extends Component {
   render() {
