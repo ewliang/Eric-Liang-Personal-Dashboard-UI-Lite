@@ -1,0 +1,11 @@
+.main-dashboard {
+  width: 100%;
+  max-width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  main {
+    max-width: 100% !important;
+    padding: 35px;
+  }
+}
